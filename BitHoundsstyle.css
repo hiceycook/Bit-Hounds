@@ -4,11 +4,30 @@ body{
     background-size:cover;
 }
 
-div{
+.summary{
     color:#f9ffe3;
     margin: 1.66666666%;
     border-bottom: 2px solid #f9ffe3;
     text-align: center;
+}
+
+.store{
+    text-align: center;
+}
+
+/* .opensea{
+    width:5%;
+} */
+
+
+.storebutton{
+    text-align: center;
+    border-radius: 20px;
+    padding:.5%;
+    background-color: red;
+    color: #12101a;
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
 }
 
 .counter{
