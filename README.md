@@ -5,5 +5,5 @@ Using cPanel, the website is updated through this repository.
 
 *Still in progress*
 
-Feel free to check out [bithounds.club](bithounds.club) 
+Feel free to check out [bithounds.club](https://bithounds.club) 
 
