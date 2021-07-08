@@ -1,6 +1,5 @@
 # Bit-Hounds
-Bit Hounds is my first project using html and css to create a website displaying an NFT collection available on OpenSea.
-Using cPanel, the website is updated through this repository.
+Bit Hounds is my first ever project using html and css to create a website displaying a simple NFT collection on OpenSea.
 
 
 
